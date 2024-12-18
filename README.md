@@ -24,7 +24,7 @@
 
 ## 项目展示
 ### 棋盘与组件
-![棋盘样例](images/board_set.png)
+![棋盘设置](images/board_set.jpg)
 
 ### 核心规则
 - [点击查看完整规则](ChenGuyu-FinalRules.pdf)
