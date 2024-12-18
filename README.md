@@ -24,11 +24,10 @@
 
 ## 项目展示
 ### 棋盘与组件
-![棋盘样例](images/board_sample.png)
-![黑洞棋子](images/black_hole_tokens.png)
+![棋盘样例](images/board_set.png)
 
 ### 核心规则
-- [点击查看完整规则](rules/BlackHoleBoard_Rules.pdf)
+- [点击查看完整规则](ChenGuyu-FinalRules.pdf)
 
 ## 个人贡献
 - **规则设计**：制定核心规则、资源分布和黑洞进化机制。
